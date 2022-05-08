@@ -3,8 +3,6 @@ project: wgibbs15/pdf-mayhem
 # Target name (should be unique within the project)
 target: pdf-fuzz
 
-image: ghcr.io/wgibbs15/pdf-fuzz:latest
-
 # List of commands used to test the target
 cmds:
 
